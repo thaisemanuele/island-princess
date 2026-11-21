@@ -45,7 +45,7 @@
       "#7DAF8C"
     ],
     [
-      "Terracotta: control flow, tags, this, regex, active icon",
+      "Terracotta: control flow, JSX tags",
       "#E07A4F"
     ],
     [
@@ -59,6 +59,10 @@
     [
       "Types, numbers, constants, highlights (coral)",
       "#F6B5A0"
+    ],
+    [
+      "Hibiscus: this, regex, enum members, active icon",
+      "#EE4E3E"
     ]
   ],
   "colors": {
@@ -72,7 +76,7 @@
     "func": "#D6D3BA",
     "string": "#E8AD62",
     "type": "#F6B5A0",
-    "special": "#E07A4F",
+    "special": "#EE4E3E",
     "border": "#22302F",
     "indentGuide": "#1B2828",
     "indentActive": "#3C4E4C"
@@ -119,23 +123,23 @@
     }
   },
   "overrides": {
-    "activityBar.foreground": "#E07A4F",
-    "activityBarTop.foreground": "#E07A4F",
-    "modernActivityBarItem.activeForeground": "#E07A4F",
-    "activityBar.activeBorder": "#E07A4F",
-    "activityBarTop.activeBorder": "#E07A4F",
-    "modernActivityBarItem.hoverForeground": "#E07A4F",
+    "activityBar.foreground": "#EE4E3E",
+    "activityBarTop.foreground": "#EE4E3E",
+    "modernActivityBarItem.activeForeground": "#EE4E3E",
+    "activityBar.activeBorder": "#EE4E3E",
+    "activityBarTop.activeBorder": "#EE4E3E",
+    "modernActivityBarItem.hoverForeground": "#EE4E3E",
     "activityBarBadge.background": "#E8AD62",
-    "tab.activeBorderTop": "#E07A4F",
-    "panelTitle.activeBorder": "#E07A4F",
-    "terminal.ansiRed": "#E07A4F",
-    "modernActivityBarItem.activeBackground": "#4D2F28",
+    "tab.activeBorderTop": "#EE4E3E",
+    "panelTitle.activeBorder": "#EE4E3E",
+    "terminal.ansiRed": "#EE4E3E",
+    "modernActivityBarItem.activeBackground": "#36221F",
     "activityBar.inactiveForeground": "#A9A893",
     "activityBarTop.inactiveForeground": "#A9A893",
     "activityBarBadge.foreground": "#101A1B",
     "editorCursor.foreground": "#E8AD62",
     "terminalCursor.foreground": "#F4F2EA",
-    "terminal.ansiBrightRed": "#EC9A76",
+    "terminal.ansiBrightRed": "#F27A6C",
     "terminal.ansiGreen": "#7DAF8C",
     "terminal.ansiBrightGreen": "#A6CBB1",
     "terminal.ansiYellow": "#E8AD62",

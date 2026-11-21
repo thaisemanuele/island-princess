@@ -17,10 +17,11 @@ A dark VS Code theme with a tropical island night, palm leaves, terracotta earth
 | Text | `#f4f2ea` |
 | Comments | `#9a8f7e` |
 | Keywords and operators (palm leaf) | `#7daf8c` |
-| Terracotta: control flow, tags, this, regex, active icon | `#e07a4f` |
+| Terracotta: control flow, JSX tags | `#e07a4f` |
 | Functions, keys, attributes (sand) | `#d6d3ba` |
 | Strings, notification badges (sunset gold) | `#e8ad62` |
 | Types, numbers, constants, highlights (coral) | `#f6b5a0` |
+| Hibiscus: this, regex, enum members, active icon | `#ee4e3e` |
 <!-- palette:end -->
 
 ## Install
