@@ -169,6 +169,10 @@
     "editorGutter.addedBackground": "#E8AD62",
     "gitDecoration.submoduleResourceForeground": "#B5AE9C",
     "list.hoverBackground": "#1E2322",
-    "list.inactiveSelectionBackground": "#1E2322"
+    "list.inactiveSelectionBackground": "#1E2322",
+    "list.activeSelectionBackground": "#4D2F28",
+    "menu.selectionBackground": "#4D2F28",
+    "quickInputList.focusBackground": "#4D2F28",
+    "editorSuggestWidget.selectedBackground": "#4D2F28"
   }
 }
