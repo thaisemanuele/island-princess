@@ -25,7 +25,7 @@
       "#192A2B"
     ],
     [
-      "UI accent (selection)",
+      "UI accent (selection, notification badges)",
       "#245D4D"
     ],
     [
@@ -53,7 +53,7 @@
       "#D6D3BA"
     ],
     [
-      "Strings, notification badges (sunset gold)",
+      "Strings (sunset gold)",
       "#E8AD62"
     ],
     [
@@ -129,14 +129,14 @@
     "activityBar.activeBorder": "#EE4E3E",
     "activityBarTop.activeBorder": "#EE4E3E",
     "modernActivityBarItem.hoverForeground": "#EE4E3E",
-    "activityBarBadge.background": "#E8AD62",
+    "activityBarBadge.background": "#245D4D",
     "tab.activeBorderTop": "#EE4E3E",
     "panelTitle.activeBorder": "#EE4E3E",
     "terminal.ansiRed": "#EE4E3E",
     "modernActivityBarItem.activeBackground": "#36221F",
     "activityBar.inactiveForeground": "#A9A893",
     "activityBarTop.inactiveForeground": "#A9A893",
-    "activityBarBadge.foreground": "#101A1B",
+    "activityBarBadge.foreground": "#F4F2EA",
     "editorCursor.foreground": "#E8AD62",
     "terminalCursor.foreground": "#F4F2EA",
     "terminal.ansiBrightRed": "#F27A6C",
@@ -144,8 +144,8 @@
     "terminal.ansiBrightGreen": "#A6CBB1",
     "terminal.ansiYellow": "#E8AD62",
     "terminal.ansiBrightYellow": "#F0C68C",
-    "badge.background": "#E8AD62",
-    "badge.foreground": "#101A1B",
+    "badge.background": "#245D4D",
+    "badge.foreground": "#F4F2EA",
     "editorBracketHighlight.foreground1": "#E8AD62",
     "editorBracketHighlight.foreground4": "#E8AD62",
     "button.background": "#EE9A80",
