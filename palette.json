@@ -154,6 +154,12 @@
     "terminal.ansiBlue": "#D6D3BA",
     "terminal.ansiBrightBlue": "#E8E5D2",
     "terminal.ansiBrightBlack": "#8A8273",
-    "terminal.findMatchBackground": "#E8AD6255"
+    "terminal.findMatchBackground": "#E8AD6255",
+    "modernTab.activeBackground": "#4D2F28",
+    "modernTab.activeForeground": "#F4F2EA",
+    "modernTab.hoverBackground": "#1E2322",
+    "modernEditorTab.hoverBackground": "#1E2322",
+    "panelTitle.inactiveForeground": "#8A8273",
+    "tab.inactiveForeground": "#8A8273"
   }
 }
