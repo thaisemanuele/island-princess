@@ -161,6 +161,14 @@
     "modernEditorTab.hoverBackground": "#1E2322",
     "panelTitle.inactiveForeground": "#8A8273",
     "tab.inactiveForeground": "#8A8273",
-    "modernActivityBarItem.hoverBackground": "#1E2322"
+    "modernActivityBarItem.hoverBackground": "#1E2322",
+    "gitDecoration.ignoredResourceForeground": "#7A7366",
+    "gitDecoration.untrackedResourceForeground": "#E8AD62",
+    "gitDecoration.addedResourceForeground": "#E8AD62",
+    "gitDecoration.renamedResourceForeground": "#E8AD62",
+    "editorGutter.addedBackground": "#E8AD62",
+    "gitDecoration.submoduleResourceForeground": "#B5AE9C",
+    "list.hoverBackground": "#1E2322",
+    "list.inactiveSelectionBackground": "#1E2322"
   }
 }
