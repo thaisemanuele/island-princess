@@ -2,67 +2,140 @@
   "name": "Island Princess",
   "slug": "island-princess",
   "description": "A dark VS Code theme with a tropical night, lagoon teal, terracotta sails and a golden sunset.",
-  "keywords": ["theme", "dark theme", "teal", "green", "terracotta", "gold", "ocean"],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "teal",
+    "green",
+    "terracotta",
+    "gold",
+    "ocean"
+  ],
   "readmeTable": [
-    ["Sidebar and panels", "#0A1412"],
-    ["Editor background", "#0F1A18"],
-    ["Menus, inputs and widgets", "#18302A"],
-    ["UI accent (selection, buttons)", "#245D4D"],
-    ["Text (sand)", "#ECE8D4"],
-    ["Comments", "#8A9C92"],
-    ["Keywords, operators, tags", "#4FC9A6"],
-    ["Functions, keys, attributes", "#A8E6D3"],
-    ["Strings (coral)", "#F5B9A6"],
-    ["Types, numbers, constants, cursor", "#E8AD62"],
-    ["Highlights and links", "#8EDDC4"],
-    ["Terracotta: control flow, this, regex, active icon, badges", "#E2865C"]
+    [
+      "Sidebar and panels",
+      "#0D100F"
+    ],
+    [
+      "Editor background",
+      "#131715"
+    ],
+    [
+      "Menus, inputs and widgets",
+      "#1F2925"
+    ],
+    [
+      "UI accent (selection, buttons)",
+      "#245D4D"
+    ],
+    [
+      "Text",
+      "#F3F0E8"
+    ],
+    [
+      "Comments",
+      "#958F80"
+    ],
+    [
+      "Keywords, operators, tags",
+      "#EE9064"
+    ],
+    [
+      "Control flow (italic)",
+      "#E07148"
+    ],
+    [
+      "Functions, keys, attributes",
+      "#86CBBE"
+    ],
+    [
+      "Strings (sand)",
+      "#DED5B4"
+    ],
+    [
+      "Types, numbers, constants, this, regex, cursor",
+      "#E8AD62"
+    ],
+    [
+      "Highlights and links",
+      "#F0A27C"
+    ]
   ],
   "colors": {
-    "bgDeep": "#0A1412",
-    "bgEditor": "#0F1A18",
-    "bgWidget": "#18302A",
+    "bgDeep": "#0D100F",
+    "bgEditor": "#131715",
+    "bgWidget": "#1F2925",
     "accent": "#245D4D",
-    "text": "#ECE8D4",
-    "comment": "#8A9C92",
-    "keyword": "#4FC9A6",
-    "func": "#A8E6D3",
-    "string": "#F5B9A6",
-    "type": "#8EDDC4",
-    "special": "#E2865C"
+    "text": "#F3F0E8",
+    "comment": "#958F80",
+    "keyword": "#EE9064",
+    "func": "#86CBBE",
+    "string": "#DED5B4",
+    "type": "#F0A27C",
+    "special": "#E8AD62",
+    "uiTint": "#4A4840",
+    "border": "#2C302C",
+    "indentGuide": "#222724",
+    "indentActive": "#4A4840"
   },
   "tokenOverrides": {
-    "Control flow and module keywords": { "foreground": "#E2865C", "fontStyle": "italic" },
-    "Type, class and interface": { "foreground": "#E8AD62", "fontStyle": "italic" },
-    "Number": { "foreground": "#E8AD62" },
-    "Language constant": { "foreground": "#E8AD62" }
+    "Control flow and module keywords": {
+      "foreground": "#E07148",
+      "fontStyle": "italic"
+    },
+    "Type, class and interface": {
+      "foreground": "#E8AD62",
+      "fontStyle": "italic"
+    },
+    "Number": {
+      "foreground": "#E8AD62"
+    },
+    "Language constant": {
+      "foreground": "#E8AD62"
+    }
   },
   "semanticOverrides": {
-    "class": { "foreground": "#E8AD62", "italic": true },
-    "type": { "foreground": "#E8AD62", "italic": true },
-    "interface": { "foreground": "#E8AD62", "italic": true },
-    "typeParameter": { "foreground": "#E8AD62", "italic": true },
-    "enum": { "foreground": "#E8AD62", "italic": true }
+    "class": {
+      "foreground": "#E8AD62",
+      "italic": true
+    },
+    "type": {
+      "foreground": "#E8AD62",
+      "italic": true
+    },
+    "interface": {
+      "foreground": "#E8AD62",
+      "italic": true
+    },
+    "typeParameter": {
+      "foreground": "#E8AD62",
+      "italic": true
+    },
+    "enum": {
+      "foreground": "#E8AD62",
+      "italic": true
+    }
   },
   "overrides": {
-    "activityBar.foreground": "#E2865C",
-    "activityBarTop.foreground": "#E2865C",
-    "modernActivityBarItem.activeForeground": "#E2865C",
-    "activityBar.activeBorder": "#E2865C",
-    "activityBarTop.activeBorder": "#E2865C",
-    "modernActivityBarItem.hoverForeground": "#E2865C",
-    "modernActivityBarItem.activeBackground": "#183A31",
-    "activityBar.inactiveForeground": "#A9B5A6",
-    "activityBarTop.inactiveForeground": "#A9B5A6",
-    "activityBarBadge.background": "#E2865C",
-    "activityBarBadge.foreground": "#0F1A18",
-    "tab.activeBorderTop": "#E2865C",
-    "panelTitle.activeBorder": "#E2865C",
+    "activityBar.foreground": "#EE9064",
+    "activityBarTop.foreground": "#EE9064",
+    "modernActivityBarItem.activeForeground": "#EE9064",
+    "activityBar.activeBorder": "#EE9064",
+    "activityBarTop.activeBorder": "#EE9064",
+    "modernActivityBarItem.hoverForeground": "#EE9064",
+    "modernActivityBarItem.activeBackground": "#1E3A33",
+    "activityBar.inactiveForeground": "#A8A493",
+    "activityBarTop.inactiveForeground": "#A8A493",
+    "activityBarBadge.background": "#EE9064",
+    "activityBarBadge.foreground": "#131715",
+    "tab.activeBorderTop": "#EE9064",
+    "panelTitle.activeBorder": "#EE9064",
     "editorCursor.foreground": "#E8AD62",
-    "terminalCursor.foreground": "#ECE8D4",
-    "terminal.ansiRed": "#E2865C",
-    "terminal.ansiBrightRed": "#EDA17E",
-    "terminal.ansiGreen": "#4FC9A6",
-    "terminal.ansiBrightGreen": "#A8E6D3",
+    "terminalCursor.foreground": "#F3F0E8",
+    "terminal.ansiRed": "#EE9064",
+    "terminal.ansiBrightRed": "#F4AE8C",
+    "terminal.ansiGreen": "#86CBBE",
+    "terminal.ansiBrightGreen": "#C4E8E0",
     "terminal.ansiYellow": "#E8AD62",
     "terminal.ansiBrightYellow": "#F0C68C"
   }
