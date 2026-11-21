@@ -7,18 +7,18 @@ A dark VS Code theme with a tropical night, lagoon teal, terracotta sails and a 
 <!-- palette:start -->
 | Role | Color |
 | --- | --- |
-| Sidebar and panels | `#0d100f` |
-| Editor background | `#131715` |
-| Menus, inputs and widgets | `#1f2925` |
+| Sidebar and panels | `#0b1412` |
+| Editor background | `#111d1b` |
+| Menus, inputs and widgets | `#1a2e29` |
 | UI accent (selection, buttons) | `#245d4d` |
-| Text | `#f3f0e8` |
-| Comments | `#958f80` |
-| Keywords, operators, tags | `#ee9064` |
-| Control flow (italic) | `#e07148` |
-| Functions, keys, attributes | `#86cbbe` |
-| Strings (sand) | `#ded5b4` |
-| Types, numbers, constants, this, regex, cursor | `#e8ad62` |
-| Highlights and links | `#f0a27c` |
+| Text | `#f4f2ea` |
+| Comments | `#9a8f7e` |
+| Keywords, operators, tags (palm leaf) | `#6fbf8e` |
+| Terracotta: control flow, this, regex, active icon | `#e07a4f` |
+| Functions, keys, attributes (sand) | `#d6d3ba` |
+| Strings (sunset gold) | `#e8ad62` |
+| Types, numbers, constants (coral) | `#f6b5a0` |
+| Highlights and links | `#8ccb9f` |
 <!-- palette:end -->
 
 ## Install
