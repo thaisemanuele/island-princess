@@ -1,10 +1,11 @@
 {
   "name": "island-princess",
   "displayName": "Island Princess",
-  "description": "A dark VS Code theme with a tropical night, lagoon teal, terracotta sails and a golden sunset.",
-  "version": "0.0.10",
+  "description": "A dark VS Code theme with a tropical island night, palm leaves, terracotta earth and a golden sunset.",
+  "version": "0.0.11",
   "publisher": "thaisemanuele",
   "license": "MIT",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -14,18 +15,18 @@
   "keywords": [
     "theme",
     "dark theme",
-    "teal",
     "green",
     "terracotta",
     "gold",
-    "ocean"
+    "tropical",
+    "island"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/thaisemanuele/island-princess"
   },
   "galleryBanner": {
-    "color": "#0f1a18",
+    "color": "#101A1B",
     "theme": "dark"
   },
   "contributes": {

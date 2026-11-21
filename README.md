@@ -1,6 +1,8 @@
+<p align="center"><img src="images/banner.png" alt="Island Princess" width="320"></p>
+
 # Island Princess
 
-A dark VS Code theme with a tropical night, lagoon teal, terracotta sails and a golden sunset.
+A dark VS Code theme with a tropical island night, palm leaves, terracotta earth and a golden sunset.
 
 ## Palette
 
