@@ -39,8 +39,8 @@
     "list.activeSelectionBackground": "#245d4dcc",
     "list.hoverBackground": "#132925",
     "list.highlightForeground": "#f6b5a0",
-    "button.background": "#245d4d",
-    "button.foreground": "#f4f2ea",
+    "button.background": "#EE9A80",
+    "button.foreground": "#101A1B",
     "badge.background": "#E8AD62",
     "badge.foreground": "#101A1B",
     "progressBar.background": "#f6b5a0",
@@ -149,7 +149,12 @@
     "terminal.ansiCyan": "#f6b5a0",
     "terminal.ansiBrightCyan": "#f9cbbd",
     "terminal.ansiWhite": "#dfe1d9",
-    "terminal.ansiBrightWhite": "#f4f2ea"
+    "terminal.ansiBrightWhite": "#f4f2ea",
+    "button.hoverBackground": "#F4AE97",
+    "button.separator": "#101A1B55",
+    "extensionButton.prominentBackground": "#EE9A80",
+    "extensionButton.prominentForeground": "#101A1B",
+    "extensionButton.prominentHoverBackground": "#F4AE97"
   },
   "tokenColors": [
     {

@@ -10,7 +10,8 @@ A dark VS Code theme with a tropical night, lagoon teal, terracotta sails and a 
 | Sidebar and panels | `#0b1314` |
 | Editor background | `#101a1b` |
 | Menus, inputs and widgets | `#192a2b` |
-| UI accent (selection, buttons) | `#245d4d` |
+| UI accent (selection) | `#245d4d` |
+| Buttons (coral) | `#ee9a80` |
 | Text | `#f4f2ea` |
 | Comments | `#9a8f7e` |
 | Keywords and operators (palm leaf) | `#7daf8c` |
