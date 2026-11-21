@@ -129,7 +129,7 @@
     "tab.activeBorderTop": "#E07A4F",
     "panelTitle.activeBorder": "#E07A4F",
     "terminal.ansiRed": "#E07A4F",
-    "modernActivityBarItem.activeBackground": "#1E3A33",
+    "modernActivityBarItem.activeBackground": "#4D2F28",
     "activityBar.inactiveForeground": "#A9A893",
     "activityBarTop.inactiveForeground": "#A9A893",
     "activityBarBadge.foreground": "#101A1B",
@@ -160,6 +160,7 @@
     "modernTab.hoverBackground": "#1E2322",
     "modernEditorTab.hoverBackground": "#1E2322",
     "panelTitle.inactiveForeground": "#8A8273",
-    "tab.inactiveForeground": "#8A8273"
+    "tab.inactiveForeground": "#8A8273",
+    "modernActivityBarItem.hoverBackground": "#1E2322"
   }
 }
