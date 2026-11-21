@@ -6,6 +6,8 @@ A dark VS Code theme with a tropical island night, palm leaves, terracotta earth
 
 ## Palette
 
+<p align="center"><img src="images/palette.png" alt="Island Princess palette" width="720"></p>
+
 <!-- palette:start -->
 | Role | Color |
 | --- | --- |
