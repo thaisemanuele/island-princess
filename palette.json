@@ -14,15 +14,15 @@
   "readmeTable": [
     [
       "Sidebar and panels",
-      "#0B1412"
+      "#0B1314"
     ],
     [
       "Editor background",
-      "#111D1B"
+      "#101A1B"
     ],
     [
       "Menus, inputs and widgets",
-      "#1A2E29"
+      "#192A2B"
     ],
     [
       "UI accent (selection, buttons)",
@@ -37,11 +37,11 @@
       "#9A8F7E"
     ],
     [
-      "Keywords, operators, tags (palm leaf)",
-      "#6FBF8E"
+      "Keywords and operators (palm leaf)",
+      "#7DAF8C"
     ],
     [
-      "Terracotta: control flow, this, regex, active icon",
+      "Terracotta: control flow, tags, this, regex, active icon",
       "#E07A4F"
     ],
     [
@@ -49,33 +49,29 @@
       "#D6D3BA"
     ],
     [
-      "Strings (sunset gold)",
+      "Strings, notification badges (sunset gold)",
       "#E8AD62"
     ],
     [
-      "Types, numbers, constants (coral)",
+      "Types, numbers, constants, highlights (coral)",
       "#F6B5A0"
-    ],
-    [
-      "Highlights and links",
-      "#8CCB9F"
     ]
   ],
   "colors": {
-    "bgDeep": "#0B1412",
-    "bgEditor": "#111D1B",
-    "bgWidget": "#1A2E29",
+    "bgDeep": "#0B1314",
+    "bgEditor": "#101A1B",
+    "bgWidget": "#192A2B",
     "accent": "#245D4D",
     "text": "#F4F2EA",
     "comment": "#9A8F7E",
-    "keyword": "#6FBF8E",
+    "keyword": "#7DAF8C",
     "func": "#D6D3BA",
     "string": "#E8AD62",
-    "type": "#8CCB9F",
+    "type": "#F6B5A0",
     "special": "#E07A4F",
-    "border": "#23332F",
-    "indentGuide": "#1C2A27",
-    "indentActive": "#3E5049"
+    "border": "#22302F",
+    "indentGuide": "#1B2828",
+    "indentActive": "#3C4E4C"
   },
   "tokenOverrides": {
     "Control flow and module keywords": {
@@ -91,6 +87,9 @@
     },
     "Language constant": {
       "foreground": "#F6B5A0"
+    },
+    "HTML and JSX tag": {
+      "foreground": "#E07A4F"
     }
   },
   "semanticOverrides": {
@@ -122,20 +121,24 @@
     "activityBar.activeBorder": "#E07A4F",
     "activityBarTop.activeBorder": "#E07A4F",
     "modernActivityBarItem.hoverForeground": "#E07A4F",
-    "activityBarBadge.background": "#E07A4F",
+    "activityBarBadge.background": "#E8AD62",
     "tab.activeBorderTop": "#E07A4F",
     "panelTitle.activeBorder": "#E07A4F",
     "terminal.ansiRed": "#E07A4F",
     "modernActivityBarItem.activeBackground": "#1E3A33",
     "activityBar.inactiveForeground": "#A9A893",
     "activityBarTop.inactiveForeground": "#A9A893",
-    "activityBarBadge.foreground": "#111D1B",
+    "activityBarBadge.foreground": "#101A1B",
     "editorCursor.foreground": "#E8AD62",
     "terminalCursor.foreground": "#F4F2EA",
     "terminal.ansiBrightRed": "#EC9A76",
-    "terminal.ansiGreen": "#6FBF8E",
-    "terminal.ansiBrightGreen": "#9AD6B0",
+    "terminal.ansiGreen": "#7DAF8C",
+    "terminal.ansiBrightGreen": "#A6CBB1",
     "terminal.ansiYellow": "#E8AD62",
-    "terminal.ansiBrightYellow": "#F0C68C"
+    "terminal.ansiBrightYellow": "#F0C68C",
+    "badge.background": "#E8AD62",
+    "badge.foreground": "#101A1B",
+    "editorBracketHighlight.foreground1": "#E8AD62",
+    "editorBracketHighlight.foreground4": "#E8AD62"
   }
 }
