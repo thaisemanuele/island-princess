@@ -150,6 +150,10 @@
     "button.separator": "#101A1B55",
     "extensionButton.prominentBackground": "#EE9A80",
     "extensionButton.prominentForeground": "#101A1B",
-    "extensionButton.prominentHoverBackground": "#F4AE97"
+    "extensionButton.prominentHoverBackground": "#F4AE97",
+    "terminal.ansiBlue": "#D6D3BA",
+    "terminal.ansiBrightBlue": "#E8E5D2",
+    "terminal.ansiBrightBlack": "#8A8273",
+    "terminal.findMatchBackground": "#E8AD6255"
   }
 }
